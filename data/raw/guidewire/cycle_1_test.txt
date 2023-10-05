@@ -1,0 +1,3 @@
+/home/nami/Dokumente/DeepLearningProjects/GuidewireDetection/data/raw/guidewire/MVI_6971.MP4
+/home/nami/Dokumente/DeepLearningProjects/GuidewireDetection/data/raw/guidewire/MVI_6931.MP4
+/home/nami/Dokumente/DeepLearningProjects/GuidewireDetection/data/raw/guidewire/MVI_6928.MP4
