@@ -30,8 +30,8 @@ hyp:
   mosaic: 1.0
   mixup: 0.0
   copy_paste: 0.0
-epochs: 10
-batch_size: 16
+epochs: 10000
+batch_size: 32
 imgsz: 640
 rect: false
 resume: false
@@ -41,7 +41,7 @@ noautoanchor: false
 noplots: false
 evolve: null
 bucket: ''
-cache: ram
+cache: null
 image_weights: false
 device: ''
 multi_scale: false

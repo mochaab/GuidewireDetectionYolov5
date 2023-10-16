@@ -15,6 +15,18 @@ Datasets:   https://github.com/ultralytics/yolov5/tree/master/data
 Tutorial:   https://docs.ultralytics.com/yolov5/tutorials/train_custom_data
 """
 
+# For Comet to start tracking a training run,
+# import comet_ml
+
+# experiment = comet_ml.Experiment(
+#     api_key="sRP5pkOCVbBvNJk2kgwOyw9OQ",
+#     project_name="guidewiredetectionyolov5v1",
+#     workspace="mochaab",
+# )
+# Metrics from this training run will now be
+# available in the Comet UI
+
+
 import argparse
 import math
 import os
