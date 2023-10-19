@@ -1,4 +1,4 @@
-weights: yolov5s.pt
+weights: best.pt
 cfg: ''
 data: /home/nami/Dokumente/DeepLearningProjects/GuidewireDetectionYolov5/yolov5/data/custom.yaml
 hyp:
@@ -30,8 +30,8 @@ hyp:
   mosaic: 1.0
   mixup: 0.0
   copy_paste: 0.0
-epochs: 10
-batch_size: 16
+epochs: 20
+batch_size: 32
 imgsz: 640
 rect: false
 resume: false
